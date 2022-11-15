@@ -1,0 +1,6 @@
+use amitdb;
+
+select * from employee;
+
+select distinct City from employee;
+

@@ -1,0 +1,7 @@
+
+use amitdb;
+
+select * from employee;
+
+select max(Salary) AS Result
+from employee;

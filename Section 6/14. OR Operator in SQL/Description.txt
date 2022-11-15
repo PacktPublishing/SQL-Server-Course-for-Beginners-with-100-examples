@@ -1,0 +1,1 @@
+Learn how to work with the OR Operator in SQL to display records only if any one of the condition is TRUE. These two conditions should be separated by the OR operator.

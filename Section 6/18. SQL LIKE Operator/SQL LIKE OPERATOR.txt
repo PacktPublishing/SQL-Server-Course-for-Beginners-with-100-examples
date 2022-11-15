@@ -1,0 +1,6 @@
+SQL LIKE Operator
+						
+- specificed pattern
+
+- % (pecentage) : zero, one or multiple characters
+- _ (underscore) :  one or single character

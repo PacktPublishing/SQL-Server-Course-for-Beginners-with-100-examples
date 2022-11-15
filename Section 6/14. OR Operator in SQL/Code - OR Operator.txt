@@ -1,0 +1,7 @@
+select * from employee;
+
+select * from employee
+where EmpName='Jeni' OR EmpName='Henry';
+
+select * from employee
+where EmpName='Jeni' OR EmpName='Steve';

@@ -1,0 +1,1 @@
+Learn how to work with the UPDATE Statement in SQL to update existing records in a table. Note, use the WHERE clause with the UPDATE statement to avoid updating all records in the table.

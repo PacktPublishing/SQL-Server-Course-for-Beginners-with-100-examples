@@ -1,0 +1,4 @@
+select * from employee;
+
+select * from employee
+where not Salary=8000;

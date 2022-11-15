@@ -1,0 +1,6 @@
+use amitdb;
+
+select * from employee;
+
+select ID, EmpName from employee;
+

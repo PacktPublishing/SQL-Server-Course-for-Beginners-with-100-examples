@@ -1,0 +1,1 @@
+Learn how to work with the ALTER TABLE in SQL to add or delete columns in the exisitng table. To add a column to an existing table, use the ALTER TABLE with ADD command.  To delete a column from an existing table, use the ALTER TABLE with DROP COLUMN.

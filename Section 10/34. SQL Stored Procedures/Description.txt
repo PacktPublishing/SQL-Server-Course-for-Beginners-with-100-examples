@@ -1,0 +1,1 @@
+Learn how to work with Stored Procedures in SQL using the CREATE PROCEDURE Statement. If you want to reuse a query again and again, then simply create a procedure and save the query in it. Call the proecedure whenever you need that same query. Therefore, stored procedures works like a Function.

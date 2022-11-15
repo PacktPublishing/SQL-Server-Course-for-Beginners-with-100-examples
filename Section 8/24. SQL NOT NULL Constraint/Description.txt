@@ -1,0 +1,1 @@
+Learn how to work with the NOT NULL Constraint in SQL, to enforce a column to have values i.e. not null. Remember, since columns can have NULL by default, to enforce a column to NOT acceot values, we use the NOT NULL constraint.

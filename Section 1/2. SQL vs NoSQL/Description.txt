@@ -1,0 +1,1 @@
+Learn the difference between SQL and NoSQL. We have considered the example of MySQL (SQL based) and MongoDB (NoSQL based) to understand the concept.

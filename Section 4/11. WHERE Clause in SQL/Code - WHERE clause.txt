@@ -1,0 +1,7 @@
+use amitdb;
+
+select * from employee;
+
+select *
+from employee
+where Salary >= 7000;

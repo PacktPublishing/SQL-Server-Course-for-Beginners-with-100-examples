@@ -1,0 +1,9 @@
+use amitdb;
+
+select * from employee;
+
+select * from employee
+order by Salary DESC;
+
+select * from employee
+order by City, Salary;

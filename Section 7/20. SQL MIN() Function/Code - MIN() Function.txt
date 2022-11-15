@@ -1,0 +1,6 @@
+use amitdb;
+
+select * from employee;
+
+select min(Salary) AS Result
+from employee

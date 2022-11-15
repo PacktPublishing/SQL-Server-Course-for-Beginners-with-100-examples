@@ -1,0 +1,9 @@
+use amitdb;
+
+select * from employee;
+
+select * from employee
+where City='ABC' AND Salary = '7000';
+
+select * from employee
+where City='ABC' AND Salary < '7000';

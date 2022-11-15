@@ -1,0 +1,15 @@
+use amitdb;
+
+select * from employee;
+
+select top 2 * from employee;
+
+select top 50 percent * from employee;
+
+select top 75 percent * from employee;
+
+select top 25 percent * from employee
+where Salary > 7000;
+
+select top 2 * from employee
+where Salary > 7000;

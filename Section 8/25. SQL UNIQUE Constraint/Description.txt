@@ -1,0 +1,1 @@
+Learn how to work with the UNIQUE Constraint in SQL to uniquely identifies each record in a database table. It enforces the uniqueness of column values.

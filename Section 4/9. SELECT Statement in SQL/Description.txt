@@ -1,0 +1,1 @@
+Learn how to select records in SQL using the SELECT statement. We will also see how to select multiple columns in a single query.

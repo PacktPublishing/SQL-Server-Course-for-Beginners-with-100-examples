@@ -1,0 +1,1 @@
+Learn how to insert records in a table using the INSERT INTO Statement in SQL.

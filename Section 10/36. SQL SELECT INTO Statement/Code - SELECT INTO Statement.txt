@@ -1,0 +1,19 @@
+use amitdb;
+
+select * from employee;
+
+select * into EmpBackup2022
+from employee;
+
+select * from EmpBackup2022
+
+select * from employee;
+
+select EmpName, Salary into MyBackup
+from employee;
+
+select * from MyBackup;
+
+
+
+

@@ -1,0 +1,1 @@
+Learn how to create a new table with SQL Server. The CREATE TABLE statement is used to create a new table in SQL Server.

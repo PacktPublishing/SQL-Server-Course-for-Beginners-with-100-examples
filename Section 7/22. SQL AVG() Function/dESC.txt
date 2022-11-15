@@ -1,0 +1,1 @@
+Learn how to implement the AVG() function in SQL. We will find the average of column values.

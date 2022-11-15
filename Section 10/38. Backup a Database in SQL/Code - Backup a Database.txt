@@ -1,0 +1,4 @@
+select * from employee;
+
+backup database amitdb
+to disk = 'E:\StudyopediaBackup\mybackup.bak';

@@ -1,0 +1,1 @@
+Learn how to work with the FOREIGN KEY Constraint in SQL. A FOREIGN KEY is a field in one table that referes to the PRIMARY KEY in another table. A child table is a table with foreign key. 

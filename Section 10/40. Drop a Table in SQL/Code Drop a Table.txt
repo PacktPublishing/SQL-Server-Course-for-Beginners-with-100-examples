@@ -1,0 +1,9 @@
+use amitdb;
+
+select * from employee;
+
+drop table employee;
+
+select * from employee;
+
+

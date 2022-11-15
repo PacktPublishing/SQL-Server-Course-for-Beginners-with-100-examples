@@ -1,0 +1,6 @@
+SELECT TOP Statement in SQL
+
+  - SELECT TOP: specify the number of records to return.
+  - SELECT TOP PERCENT: select the first % of records
+  - SELECT TOP PERCENT: adding a where clause to select top
+    WHERE

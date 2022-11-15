@@ -1,0 +1,1 @@
+Learn how to implement the LIKE operator in SQL. We will find values on the basis of a specific pattern using percentage and underscore.

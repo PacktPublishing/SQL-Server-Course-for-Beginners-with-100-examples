@@ -1,0 +1,17 @@
+use amitdb;
+
+select * from employee;
+
+UPDATE employee
+SET Salary = '9500'
+WHERE ID = 4;
+
+select * from employee;
+
+UPDATE employee
+SET EmpName = 'Brad', City = 'JKL'
+WHERE ID = 1;
+
+select * from employee;
+
+

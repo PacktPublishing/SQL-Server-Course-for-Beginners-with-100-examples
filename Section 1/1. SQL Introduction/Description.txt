@@ -1,0 +1,1 @@
+Learn what is SQL and how it is based on RDBMS. We will discuss the features as well as Microsoft SQL Server and SQL Server Management Studio.

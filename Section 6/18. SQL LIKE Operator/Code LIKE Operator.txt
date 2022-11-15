@@ -1,0 +1,15 @@
+use amitdb;
+
+select * from employee;
+
+select * from employee
+where City LIKE 'A%';
+
+select * from employee
+where EmpName LIKE '%i';
+
+select * from employee
+where EmpName LIKE '_e%'
+
+select * from employee
+where EmpName NOT LIKE "E%"

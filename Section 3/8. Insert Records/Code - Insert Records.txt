@@ -1,0 +1,20 @@
+create database amitdb;
+
+use amitdb;
+
+create table employee (
+  ID int,
+  EmpName varchar(255),
+  City varchar(255),
+  Salary int
+);
+
+insert into employee(ID, EmpName, City, Salary)
+values ('1', 'Tom', 'ABC', '7000");
+
+select * from employee;
+
+insert into employee(ID, EmpName, City, Salary)
+values('2', 'Emma', 'PQR', '8000');
+
+select * from employee;

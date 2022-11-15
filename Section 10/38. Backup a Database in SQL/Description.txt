@@ -1,0 +1,1 @@
+Learn how to backup a database in SQL. We will backup the database in a local directory with the extension .bak.

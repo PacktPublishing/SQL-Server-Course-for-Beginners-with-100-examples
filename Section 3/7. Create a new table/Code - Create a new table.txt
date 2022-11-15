@@ -1,0 +1,10 @@
+create database amitdb;
+
+use amitdb;
+
+create table employee (
+  ID int,
+  EmpName varchar(255),
+  City varchar(255),
+  Salary int
+);

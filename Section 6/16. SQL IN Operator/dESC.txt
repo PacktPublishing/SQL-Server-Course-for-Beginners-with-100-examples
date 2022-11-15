@@ -1,0 +1,1 @@
+Learn how to implement the In operator in SQL. We will check whether a specific value match.

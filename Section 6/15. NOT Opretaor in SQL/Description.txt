@@ -1,0 +1,1 @@
+Learn how to work with the NOT Operator in SQL to display records only if the condition isn't met i.e. FALSE.

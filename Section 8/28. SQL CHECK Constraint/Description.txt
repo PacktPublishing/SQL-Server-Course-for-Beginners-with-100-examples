@@ -1,0 +1,1 @@
+Learn how to work with the CHECK Constraint in SQL to allow only specific values for a column. You can limit the value range set in a column, for example, Age > 18, Marks > 75, etc.

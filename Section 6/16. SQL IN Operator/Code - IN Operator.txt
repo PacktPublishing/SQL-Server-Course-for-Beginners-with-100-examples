@@ -1,0 +1,12 @@
+use amitdb;
+
+select * from employee;
+
+select * from employee
+where City IN('ZYW','FGH');
+
+select * from employee
+where EmpName IN('Emma', 'Henry', 'Will');
+
+select * from employee
+where EmpName NOT IN('Emma', 'Henry', 'Will');

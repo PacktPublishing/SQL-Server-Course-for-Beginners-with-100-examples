@@ -1,0 +1,1 @@
+Learn how to work with the CREATE INDEX Statament in SQL to create indexes in table. Indexes retrievs data quicly from the database. We will also see how to delete indexes using the DROP INDEX Statement.

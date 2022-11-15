@@ -1,0 +1,10 @@
+use amitdb;
+
+select * from employee;
+
+alter table employee
+ADD Age int;
+
+alter table employee
+DROP COLUMN Age;
+

@@ -1,0 +1,9 @@
+use amitdb;
+
+select * from employee;
+
+select EmpName
+from employee;
+
+select EmpName AS MyResult
+from employee;

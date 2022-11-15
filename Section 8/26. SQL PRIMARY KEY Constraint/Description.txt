@@ -1,0 +1,1 @@
+Learn how to work with the PRIMARY KEY Constraint in SQL. A PRIMARY KEY uniquely identifies each record. Note, a Primary Key column can never have NULL values.

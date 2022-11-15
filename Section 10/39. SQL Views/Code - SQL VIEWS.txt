@@ -1,0 +1,20 @@
+use amitdb;
+
+select * from employee;
+
+create view [Employees ABC) AS
+select EmpName, City
+from employee
+where City = 'ABC'
+
+select * from employee;
+
+create view [Salary ABOVE 7000] AS
+select EmpName, City, Salary
+from employee
+where Salary > 7000
+
+select * from [Salary ABOVE 7000];
+select * from [Employees ABC];
+
+DROP VIEW [Employees ABC];

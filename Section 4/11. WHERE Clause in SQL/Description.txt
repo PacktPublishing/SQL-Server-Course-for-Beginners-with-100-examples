@@ -1,0 +1,1 @@
+Learn how to work with the WHERE clause in SQL. WHERE clause filter records based on condition(s).

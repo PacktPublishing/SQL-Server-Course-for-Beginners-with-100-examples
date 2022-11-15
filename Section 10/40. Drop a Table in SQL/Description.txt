@@ -1,0 +1,1 @@
+Learn how to drop a table in SQL. Dropping will delete all the records of the table. It will also remove the existence of the table completely.

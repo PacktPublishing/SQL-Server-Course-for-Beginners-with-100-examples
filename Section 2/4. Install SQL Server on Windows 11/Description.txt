@@ -1,0 +1,1 @@
+Learn how to download and install Microsoft SQL Server on Windows 11. We will also install SQL Server Management Studio (SSMS).

@@ -1,0 +1,4 @@
+While installing SQL Server, you may get the following error: 
+Learn how to fix the following error while installing Microsoft SQL Server 2019:
+A required file could not be downloaded. This could mean the version of the installer is no longer supported. Please download again from download site. 
+Learn to fix it!

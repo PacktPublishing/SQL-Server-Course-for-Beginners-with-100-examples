@@ -1,0 +1,1 @@
+Learn how to implement the SELECT TOP statement in SQL. We will work with SELECT TOP PERCENT statement as well.

@@ -1,0 +1,1 @@
+Learn how to work with the Views in SQL. A view is a virtual table created from the actual table, displaying the current result-set. We will use the CREATE VIEW and DROP VIEW statements to create an delete views respectivelu.

@@ -1,0 +1,1 @@
+Learn how to create a new database in SQL Server. The CREATE DATABASE statement is used to create a new database in SQL Server.

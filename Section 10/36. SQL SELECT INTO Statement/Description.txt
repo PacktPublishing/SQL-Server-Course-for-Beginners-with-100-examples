@@ -1,0 +1,1 @@
+Learn how to work with the SELECT INTO Statement in SQL to create a backup copy of your table to a new table. The new table will have the same type and columns, as in the 1st table.

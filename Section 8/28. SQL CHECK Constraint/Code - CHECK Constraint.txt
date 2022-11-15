@@ -1,0 +1,23 @@
+use amitdb;
+
+create table employee (
+  ID int NOT NULL PRIMARY KEY,
+  EmpName varchar(255) NOT NULL,
+  City varchar(255),
+  Salary int CHECK (Salary < 10000)
+)
+
+insert into employee(ID, EmpName, City, Salary)
+values('1','Tom','ABC','7000');
+
+insert into employee(ID, EmpName, City, Salary)
+values('2','Emma','PQR','8000');
+
+select * from employee;
+
+insert into employee(ID, EmpName, City, Salary)
+values('3','Will','QUY','5500');
+
+select * from employee;
+
+

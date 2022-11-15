@@ -1,0 +1,1 @@
+Learn how to work with Aliases in SQL to give a temporary name to a table or a column. The AS keyword is used to create an alias, making column names more readable. Remember that the existence of the alias expires whe the duration of that query ends.

@@ -1,0 +1,10 @@
+use amitdb;
+
+select * from employee;
+
+select count(EmpName)
+from employee
+where Salary > 7000
+
+select count(*)
+from employee;

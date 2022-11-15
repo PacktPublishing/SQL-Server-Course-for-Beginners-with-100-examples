@@ -1,0 +1,12 @@
+create table Employee (
+  EmpID int NOT NULL PRIMARY KEY,
+  EmpName varchar(255) NOT NULL,
+  EmpCity varchar(255),
+  EmpSalary int
+)
+
+create table Department (
+    DeptID int NOT NULL PRIMARY KEY,
+    DeptName varchar(255) NOT NULL,
+    EmpID int FOREIGN KEY REFERENCES Employee(EmpID)
+);

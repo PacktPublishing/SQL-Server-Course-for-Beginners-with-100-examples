@@ -1,0 +1,11 @@
+use amitdb;
+
+select * from employee;
+
+CREATE INDEX MyIndex
+on employee (EmpName);
+
+CREATE INDEX MyIndex2
+on employee (EmpName, Salary);
+
+DROP INDEX employee.MyIndex2;

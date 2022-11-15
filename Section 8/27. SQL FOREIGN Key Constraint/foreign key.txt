@@ -1,0 +1,41 @@
+
+
+                               Foreign Key Constraint in SQL
+								  
+								  
+A FOREIGN KEY is a field in one table referring to the PRIMARY KEY in another table.
+
+	- Child table: The table with the foreign key
+	- Parent table (Referenced): The table with the primary key 
+
+<Employee> ------------------------------
+EmpID    EmpName EmpCity EmpSalary
+1	       Tom	   ABC	   7000
+2	       Emma	   PQR	   8000
+3	       Jack	   JQY	   6500
+4	       Will	   XYZ	   7300
+
+create table Employee (
+  EmpID int NOT NULL PRIMARY KEY,
+  EmpName varchar(255) NOT NULL,
+  EmpCity varchar(255),
+  EmpSalary int
+)
+
+<Department> ----------------------------
+DeptID       DeptName     EmpID 
+D01	 	    Marketing	    2
+D02	    	Operations	    5
+D03          Finance        3
+
+
+create table Department (
+    DeptID int NOT NULL PRIMARY KEY,
+    DeptName varchar(255) NOT NULL,
+    EmpID int FOREIGN KEY REFERENCES Employee(EmpID)
+);
+
+
+The "EmpID" column in the "Employee" table is the PRIMARY KEY in the "Employee" table.
+The "EmpID" column in the "Department" table is a FOREIGN KEY in the "Department" table.
+

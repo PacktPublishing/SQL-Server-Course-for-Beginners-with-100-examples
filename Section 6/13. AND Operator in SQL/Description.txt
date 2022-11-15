@@ -1,0 +1,1 @@
+Learn how to work with the AND Operator in SQL to display records only if both the conditions are TRUE. These two conditions should be separated by the AND operator.

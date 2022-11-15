@@ -1,0 +1,1 @@
+Learn how to order records in SQL using the ORDER BY keyword. The default sorts in Ascending order. We will see examples of both ASC and DESC keywords as well.

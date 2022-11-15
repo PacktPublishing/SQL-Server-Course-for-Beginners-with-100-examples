@@ -1,0 +1,13 @@
+use amitdb;
+
+select * from employee;
+
+select * from employee
+where Salary BETWEEN 7000 AND 9000;
+
+select * from employee
+where Salary NOT BETWEEN 7000 AND 9000;
+
+select * from employee
+where EmpName BETWEEN 'David' AND 'Jeni'
+ORDER BY EmpName;

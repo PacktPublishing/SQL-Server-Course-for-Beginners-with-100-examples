@@ -1,0 +1,23 @@
+use amitdb;
+
+select * from employee;
+
+create procedure AllRecords
+AS
+select * from employee
+GO;
+
+exec AllRecords;
+
+create procedure AllRecords2 @City varchar(255)
+AS
+select * from employee where City = @City;
+
+exec AllRecords2 @City = 'ABC';
+
+create procedure AllRecords3 @City varchar(255), @EmpName varchar(255)
+AS
+select * from employee where City = @City AND EmpName = @EmpName;
+
+exec AllRecords3 @City = 'ABC', @EmpName = 'Tom';
+

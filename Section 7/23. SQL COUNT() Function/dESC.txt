@@ -1,0 +1,1 @@
+Learn how to implement the COUNT() function in SQL. We will find the count the number of rows.

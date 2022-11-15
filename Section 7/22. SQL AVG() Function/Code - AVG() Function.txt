@@ -1,0 +1,10 @@
+use amitdb;
+
+select * from employee;
+
+select AVG(Salary)
+from employee
+
+select AVG(Salary)
+from employee
+where Salary > 6000;
